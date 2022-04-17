@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "138768907950",
+    "project_id": "mest-friend-adarsh",
+    "storage_bucket": "mest-friend-adarsh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138768907950:android:2445f546e9fa400723373f",
+        "android_client_info": {
+          "package_name": "in.adarsh.mestfriend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138768907950-7vnu6djsv4l1kg88n6bkhieag77s7r19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ61xkiJrDyCMzqIxFjyDZDs-QRtYdLNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138768907950-7vnu6djsv4l1kg88n6bkhieag77s7r19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
