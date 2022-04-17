@@ -9,3 +9,12 @@ Features of Mest Friend-<br>
 🌟 Vote for menu change - Vote to add or remove certain items from the menu<br>
 🌟 Complaint section - Complaints can be registed by the students and/or attendes alongw with the option to upload pictures (if any).<br>
 🌟 e-Coupon - QR code scanner and generator in the form of e-Coupons to manage attendance and payment.<br>
+
+<h2> Screenshots</h2> 
+<p float="left">
+  <img src="assests/home.png"       style="display:block"  height="425" width="215" hspace="20" />
+  <img src="assests/signup.png"     style="display:block"  height="425" width="215" hspace="20" /> 
+  <img src="assests/nav_drawer.png" style="display:block"  height="425" width="215" hspace="20" />
+  <img src="assests/absence.png"    style="display:block"  height="425" width="215" hspace="20" /> 
+  <img src="assests/complaint.png"  style="display:block"  height="425" width="215" hspace="20"/>
+</p>
