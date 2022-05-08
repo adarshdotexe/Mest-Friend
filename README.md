@@ -14,7 +14,8 @@ Features of Mest Friend-<br>
 <p float="left">
   <img src="assests/home.png"       style="display:block"  height="425" width="215" hspace="20" />
   <img src="assests/signup.png"     style="display:block"  height="425" width="215" hspace="20" /> 
-  <img src="assests/nav_drawer.png" style="display:block"  height="425" width="215" hspace="20" />
-  <img src="assests/absence.png"    style="display:block"  height="425" width="215" hspace="20" /> 
+  <img src="assests/e-coupon.png" style="display:block"  height="425" width="215" hspace="20" />
+  <img src="assests/scan-qr.png" style="display:block"  height="425" width="215" hspace="20" />
+  <img src="assests/vote.png"    style="display:block"  height="425" width="215" hspace="20" /> 
   <img src="assests/complaint.png"  style="display:block"  height="425" width="215" hspace="20"/>
 </p>
